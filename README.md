@@ -1,1 +1,3 @@
 # Visual-Search-Engine
+
+This project  allows users to upload an image and retrieve visually similar images from a pre-indexed dataset using deep learning. It leverages a pretrained face recognition model (InceptionResnetV1) to embed images into a shared feature space and uses FAISS for efficient similarity search. Currently, the system is demoed on an Instagram image dataset, returning not only similar images but also their associated Instagram profile links. The project showcases a scalable and intuitive solution for image-based search, with potential expansion to multiple social media platforms.
